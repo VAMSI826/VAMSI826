@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAMSI826
 - 👀 I’m interested in code
-- 🌱 I’m currently learning java programming language 
+- 🌱 I’m currently a front end developer
 - 💞️ I’m looking to collaborate on projects or any small code works
 - 📫 How to reach me vamsim8267@gmail.com 
 

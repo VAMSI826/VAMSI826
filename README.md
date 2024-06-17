@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAMSI826
 - 👀 I’m interested in code
-- 🌱 I’m currently a front end developer
+- 🌱 I’m currently a mern stack developer
 - 💞️ I’m looking to collaborate on projects or any small code works
 - 📫 How to reach me vamsim8267@gmail.com 
 
